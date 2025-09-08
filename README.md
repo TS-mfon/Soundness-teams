@@ -9,7 +9,9 @@ Then cd into the directory with the file on your terminal
 
 # Run
 
+```
 python3 team_turn.py
+```
 
 you will see whose turn it is 
 
