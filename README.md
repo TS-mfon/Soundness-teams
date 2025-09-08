@@ -3,7 +3,9 @@ Find out what team would be participating that day
 
 
 First of all install python on your pc
+
 Then download the file 
+
 Then cd into the directory with the file on your terminal
 
 
